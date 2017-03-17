@@ -1,7 +1,6 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
-$a="<table><tr><td>Use the following format for additions: ` - VERSION: [feature/patch (if applicable)] Short description of change. Links to relevant issues/PRs.`
 $a="<table><tr><td>
 $a="<table><tr><td>- 1.1.9: Fix around ubuntu's inability to cache promises. [#877](https://github.com/FredrikNoren/ungit/pull/878)
 - 1.1.8:
@@ -11,7 +10,7 @@ $a="<table><tr><td>- 1.1.9: Fix around ubuntu's inability to cache promises. [#8
 - 1.1.7:
     - Fix diff flickering issue and optimization [#865](https://github.com/FredrikNoren/ungit/pull/865)
     - Fix credential dialog issue [#864](https://github.com/FredrikNoren/ungit/pull/864)
-    - Fix HEAD branch order when redraw [#858](https://github.com/FredrikNoren/ungit/issues/858)
+4    - Fix HEAD branch order when redraw [#858](https://github.com/FredrikNoren/ungit/issues/858)
 - 1.1.6: Fix path auto complete [#861](https://github.com/FredrikNoren/ungit/issues/861)
 - 1.1.5: Update "Toggle all" button after commit or changing selected files [#859](https://github.com/FredrikNoren/ungit/issues/859)
 - 1.1.4: [patch] Promise refactoring
